@@ -1,0 +1,5 @@
+Memory in VirtualBox: 4096MB
+Storage in VirtualBox: 30GB
+
+Memory free in host(Pop_Os!): 1,0Gb
+Storage available in host(Pop_Os): 811M
